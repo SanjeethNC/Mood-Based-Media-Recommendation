@@ -1,8 +1,8 @@
 # Music-Genre-Classification-Recommendation.io
 
 ## Team Members
+- Sanjeeth Nagappa Chakkrasali
 - Shaun Noronha
-- Sanjeeth Chakkrasali
 - Khushita Joshi
 - Alessandra Serpes
 - Sankalp Vyas
