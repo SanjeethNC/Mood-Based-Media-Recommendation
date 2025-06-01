@@ -1,10 +1,5 @@
 # Music-Genre-Classification-Recommendation.io
 
-## Team Members
-- Sanjeeth Nagappa Chakkrasali
-- Shaun Noronha
-- Khushita Joshi
-
 ## Background and Motivation
 Our project, the Advanced Music Genre Classification System, is inspired by the successes of platforms like Spotify, which utilize machine learning not only to enhance music discovery but also to personalize user experiences. By developing a system that incorporates cutting-edge audio analysis and machine learning models, we aim to improve the accuracy and efficiency of music genre classification. Additionally, by integrating mood recognition technology, our system will offer personalized music recommendations, enriching the user's listening experience based on their current emotional state.
 
